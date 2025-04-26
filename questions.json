@@ -1,0 +1,385 @@
+{
+    "questions": [
+     
+      {
+        "prompt": "What gas do humans need to breathe to survive?",
+        "options": ["Carbon Dioxide", "Oxygen", "Hydrogen", "Nitrogen"],
+        "answer": "Oxygen",
+        "category": "Science",
+        "difficulty": "Easy",
+        "timeLimit": 10
+      },
+      {
+        "prompt": "How many planets are there in the Solar System?",
+        "options": ["7", "8", "9", "10"],
+        "answer": "8",
+        "category": "Science",
+        "difficulty": "Easy",
+        "timeLimit": 10
+      },
+      {
+        "prompt": "What is H2O commonly known as?",
+        "options": ["Salt", "Water", "Oxygen", "Helium"],
+        "answer": "Water",
+        "category": "Science",
+        "difficulty": "Easy",
+        "timeLimit": 10
+      },
+      {
+        "prompt": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+        "answer": "Mars",
+        "category": "Science",
+        "difficulty": "Easy",
+        "timeLimit": 10
+      },
+      {
+        "prompt": "What is the center of an atom called?",
+        "options": ["Proton", "Nucleus", "Electron", "Molecule"],
+        "answer": "Nucleus",
+        "category": "Science",
+        "difficulty": "Easy",
+        "timeLimit": 10
+      },
+  
+   
+      {
+        "prompt": "What part of the plant conducts photosynthesis?",
+        "options": ["Stem", "Root", "Leaf", "Flower"],
+        "answer": "Leaf",
+        "category": "Science",
+        "difficulty": "Medium",
+        "timeLimit": 15
+      },
+      {
+        "prompt": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Ribosome", "Cell membrane"],
+        "answer": "Mitochondria",
+        "category": "Science",
+        "difficulty": "Medium",
+        "timeLimit": 15
+      },
+      {
+        "prompt": "What is the chemical symbol for Iron?",
+        "options": ["Ir", "Fe", "In", "Io"],
+        "answer": "Fe",
+        "category": "Science",
+        "difficulty": "Medium",
+        "timeLimit": 15
+      },
+      {
+        "prompt": "What type of energy does a moving object have?",
+        "options": ["Potential Energy", "Kinetic Energy", "Chemical Energy", "Thermal Energy"],
+        "answer": "Kinetic Energy",
+        "category": "Science",
+        "difficulty": "Medium",
+        "timeLimit": 15
+      },
+      {
+        "prompt": "What is the speed of light in a vacuum (approximate)?",
+        "options": ["150,000 km/s", "300,000 km/s", "450,000 km/s", "600,000 km/s"],
+        "answer": "300,000 km/s",
+        "category": "Science",
+        "difficulty": "Medium",
+        "timeLimit": 15
+      },
+  
+
+      {
+        "prompt": "Who developed the theory of general relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+        "answer": "Albert Einstein",
+        "category": "Science",
+        "difficulty": "Hard",
+        "timeLimit": 20
+      },
+      {
+        "prompt": "What is the most abundant gas in Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Nitrogen",
+        "category": "Science",
+        "difficulty": "Hard",
+        "timeLimit": 20
+      },
+      {
+        "prompt": "What is the unit of electrical resistance?",
+        "options": ["Watt", "Ohm", "Volt", "Ampere"],
+        "answer": "Ohm",
+        "category": "Science",
+        "difficulty": "Hard",
+        "timeLimit": 20
+      },
+      {
+        "prompt": "Which planet has the most moons?",
+        "options": ["Saturn", "Jupiter", "Mars", "Neptune"],
+        "answer": "Saturn",
+        "category": "Science",
+        "difficulty": "Hard",
+        "timeLimit": 20
+      },
+      {
+        "prompt": "Which scientist is known for the laws of motion and gravity?",
+        "options": ["Galileo Galilei", "Isaac Newton", "Albert Einstein", "Stephen Hawking"],
+        "answer": "Isaac Newton",
+        "category": "Science",
+        "difficulty": "Hard",
+        "timeLimit": 20
+      },
+  
+     
+      {
+        "prompt": "Who was the first President of the USA?",
+        "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+        "answer": "George Washington",
+        "category": "History",
+        "difficulty": "Easy",
+        "timeLimit": 10
+      },
+      {
+        "prompt": "In which country did the Olympic Games originate?",
+        "options": ["Italy", "Greece", "France", "Egypt"],
+        "answer": "Greece",
+        "category": "History",
+        "difficulty": "Easy",
+        "timeLimit": 10
+      },
+      {
+        "prompt": "What is the name of the ship the Pilgrims traveled on to America?",
+        "options": ["Mayflower", "Santa Maria", "Endeavor", "Discovery"],
+        "answer": "Mayflower",
+        "category": "History",
+        "difficulty": "Easy",
+        "timeLimit": 10
+      },
+      {
+        "prompt": "Who discovered America in 1492?",
+        "options": ["Ferdinand Magellan", "Christopher Columbus", "Marco Polo", "Amerigo Vespucci"],
+        "answer": "Christopher Columbus",
+        "category": "History",
+        "difficulty": "Easy",
+        "timeLimit": 10
+      },
+      {
+        "prompt": "What ancient civilization built the pyramids?",
+        "options": ["Romans", "Greeks", "Egyptians", "Mayans"],
+        "answer": "Egyptians",
+        "category": "History",
+        "difficulty": "Easy",
+        "timeLimit": 10
+      },
+  
+   
+      {
+        "prompt": "When did World War II end?",
+        "options": ["1940", "1945", "1950", "1939"],
+        "answer": "1945",
+        "category": "History",
+        "difficulty": "Medium",
+        "timeLimit": 15
+      },
+      {
+        "prompt": "Who was the British Prime Minister during most of WWII?",
+        "options": ["Winston Churchill", "Neville Chamberlain", "Margaret Thatcher", "Boris Johnson"],
+        "answer": "Winston Churchill",
+        "category": "History",
+        "difficulty": "Medium",
+        "timeLimit": 15
+      },
+      {
+        "prompt": "Where was Napoleon Bonaparte born?",
+        "options": ["France", "Italy", "Corsica", "Spain"],
+        "answer": "Corsica",
+        "category": "History",
+        "difficulty": "Medium",
+        "timeLimit": 15
+      },
+      {
+        "prompt": "The Great Fire of London occurred in which year?",
+        "options": ["1666", "1776", "1566", "1866"],
+        "answer": "1666",
+        "category": "History",
+        "difficulty": "Medium",
+        "timeLimit": 15
+      },
+      {
+        "prompt": "Who was the first emperor of Rome?",
+        "options": ["Nero", "Augustus", "Julius Caesar", "Caligula"],
+        "answer": "Augustus",
+        "category": "History",
+        "difficulty": "Medium",
+        "timeLimit": 15
+      },
+  
+    
+      {
+        "prompt": "Which treaty ended World War I?",
+        "options": ["Treaty of Versailles", "Treaty of Paris", "Treaty of Ghent", "Treaty of London"],
+        "answer": "Treaty of Versailles",
+        "category": "History",
+        "difficulty": "Hard",
+        "timeLimit": 20
+      },
+      {
+        "prompt": "What year did the Berlin Wall fall?",
+        "options": ["1987", "1989", "1991", "1993"],
+        "answer": "1989",
+        "category": "History",
+        "difficulty": "Hard",
+        "timeLimit": 20
+      },
+      {
+        "prompt": "Who was the last Pharaoh of Ancient Egypt?",
+        "options": ["Cleopatra", "Tutankhamun", "Ramses", "Nefertiti"],
+        "answer": "Cleopatra",
+        "category": "History",
+        "difficulty": "Hard",
+        "timeLimit": 20
+      },
+      {
+        "prompt": "Which city was known as Byzantium before being renamed?",
+        "options": ["Athens", "Istanbul", "Cairo", "Baghdad"],
+        "answer": "Istanbul",
+        "category": "History",
+        "difficulty": "Hard",
+        "timeLimit": 20
+      },
+      {
+        "prompt": "Who wrote the Communist Manifesto?",
+        "options": ["Vladimir Lenin", "Karl Marx", "Joseph Stalin", "Leon Trotsky"],
+        "answer": "Karl Marx",
+        "category": "History",
+        "difficulty": "Hard",
+        "timeLimit": 20
+      },
+  
+      
+      {
+        "prompt": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4",
+        "category": "Math",
+        "difficulty": "Easy",
+        "timeLimit": 5
+      },
+      {
+        "prompt": "What is 10 ÷ 2?",
+        "options": ["2", "3", "4", "5"],
+        "answer": "5",
+        "category": "Math",
+        "difficulty": "Easy",
+        "timeLimit": 5
+      },
+      {
+        "prompt": "What is 7 × 3?",
+        "options": ["20", "21", "24", "30"],
+        "answer": "21",
+        "category": "Math",
+        "difficulty": "Easy",
+        "timeLimit": 5
+      },
+      {
+        "prompt": "What is the square root of 81?",
+        "options": ["8", "9", "10", "11"],
+        "answer": "9",
+        "category": "Math",
+        "difficulty": "Easy",
+        "timeLimit": 5
+      },
+      {
+        "prompt": "What is 15% of 100?",
+        "options": ["10", "15", "20", "25"],
+        "answer": "15",
+        "category": "Math",
+        "difficulty": "Easy",
+        "timeLimit": 5
+      },
+
+      
+    {
+        "prompt": "What is 12 × 12?",
+        "options": ["124", "144", "132", "142"],
+        "answer": "144",
+        "category": "Math",
+        "difficulty": "Medium",
+        "timeLimit": 10
+    },
+    {
+        "prompt": "What is the value of 3² + 4²?",
+        "options": ["24", "25", "26", "27"],
+        "answer": "25",
+        "category": "Math",
+        "difficulty": "Medium",
+        "timeLimit": 10
+    },
+    {
+        "prompt": "If x = 5, what is the value of 2x + 3?",
+        "options": ["10", "12", "13", "15"],
+        "answer": "13",
+        "category": "Math",
+        "difficulty": "Medium",
+        "timeLimit": 10
+    },
+    {
+        "prompt": "Simplify: (2x + 3x) × 2",
+        "options": ["5x", "10x", "6x", "8x"],
+        "answer": "10x",
+        "category": "Math",
+        "difficulty": "Medium",
+        "timeLimit": 10
+    },
+    {
+        "prompt": "What is 20% of 250?",
+        "options": ["40", "45", "50", "55"],
+        "answer": "50",
+        "category": "Math",
+        "difficulty": "Medium",
+        "timeLimit": 10
+    },
+
+
+    {
+        "prompt": "Solve for x: 3x - 7 = 2x + 5",
+        "options": ["12", "13", "10", "11"],
+        "answer": "12",
+        "category": "Math",
+        "difficulty": "Hard",
+        "timeLimit": 15
+    },
+    {
+        "prompt": "What is the derivative of x²?",
+        "options": ["x", "2x", "x²", "2"],
+        "answer": "2x",
+        "category": "Math",
+        "difficulty": "Hard",
+        "timeLimit": 15
+    },
+    {
+        "prompt": "What is the area of a circle with radius 7? (π ≈ 3.14)",
+        "options": ["153.86", "144.22", "160.45", "150.00"],
+        "answer": "153.86",
+        "category": "Math",
+        "difficulty": "Hard",
+        "timeLimit": 15
+    },
+    {
+        "prompt": "Simplify: (x²y³)²",
+        "options": ["x⁴y⁶", "x²y⁶", "x³y⁵", "x⁴y³"],
+        "answer": "x⁴y⁶",
+        "category": "Math",
+        "difficulty": "Hard",
+        "timeLimit": 15
+    },
+    {
+        "prompt": "What is the sum of the interior angles of a hexagon?",
+        "options": ["540°", "720°", "900°", "1080°"],
+        "answer": "720°",
+        "category": "Math",
+        "difficulty": "Hard",
+        "timeLimit": 15
+    }
+    ]}
+      
+      
+      
+    
+  
